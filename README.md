@@ -41,7 +41,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20nos%20nostraque%20fata%20est%20vis.&author=Gothic%20I" />
-</p>
